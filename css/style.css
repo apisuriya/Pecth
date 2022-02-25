@@ -1,0 +1,14 @@
+body{
+    Background:url("../asset/123.jpg");
+    background-size:cover;
+background-repeat:no-repeat;
+background-attachment:fixed;
+}
+
+h1{
+    color: rgb(255, 148, 8) !important;
+}
+
+h2{
+    color: azure !important;
+}
